@@ -1,7 +1,7 @@
 {
   "name": "@peachswap/interface",
   "description": "PeachSwap Interface",
-  "homepage": "https://pearchswap.github.io/peachswap-interface",
+  "homepage": "https://pearchswap.github.io/",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
